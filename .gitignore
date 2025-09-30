@@ -1,4 +1,6 @@
 .ipynb_checkpoints/
+.langgraph*
+.vscode
 
 .idea/
 
